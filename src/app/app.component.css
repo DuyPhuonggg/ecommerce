@@ -1,0 +1,29 @@
+@media (min-width: 640px) {
+  .screens {
+    background-color: red;
+  }
+}
+
+@media (min-width: 768px) {
+  .screens {
+    background-color: green;
+  }
+}
+
+@media (min-width: 1024px) {
+  .screens {
+    background-color: yellow;
+  }
+}
+
+@media (min-width: 1280px) {
+  .screens {
+    background-color: red;
+  }
+}
+
+@media (min-width: 1536px) {
+  .screens {
+    background-color: blue;
+  }
+}
