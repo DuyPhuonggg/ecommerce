@@ -4,6 +4,12 @@ module.exports = {
     "./src/**/*.{html,ts}",
   ],
   theme: {
+    colors: {
+      'theme1' : '#013d29',
+      'theme2' : '#dfc0ab',
+      'white' : '#ffffff',
+      'black' : '#000000'
+    },
     screens: {
       'sm': '640px',
       // => @media (min-width: 640px) { ... }

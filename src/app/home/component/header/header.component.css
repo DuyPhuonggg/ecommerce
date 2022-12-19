@@ -1,0 +1,34 @@
+@media (max-width: 640px) {
+  .header {
+    background-color: red;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    background-color: green;
+  }
+}
+
+@media (max-width: 1024px) {
+  .header {
+    background-color: yellow;
+  }
+}
+
+@media (max-width: 1280px) {
+  .header {
+    background-color: red;
+  }
+}
+
+@media (max-width: 1536px) {
+  .header {
+    background-color: blue;
+  }
+}
+
+.mat_icon {
+  height: 14px;
+  margin: 0 4px;
+}
