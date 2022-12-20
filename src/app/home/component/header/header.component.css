@@ -1,34 +1,84 @@
 @media (max-width: 640px) {
-  .header {
-    background-color: red;
+  .wi-1 {
+    width: 10%;
+  }
+  .wi-2 {
+    width: 78%;
+  }
+  .wi-2_1 {
+    width: 206px;
+  }
+  .wi-3 {
+    width: 12%;
   }
 }
 
-@media (max-width: 768px) {
-  .header {
-    background-color: green;
+@media (min-width: 768px) {
+  .wi-1 {
+    width: 10%;
+  }
+  .wi-2 {
+    width: 77%;
+  }
+  .wi-2_1 {
+    width: 206px;
+  }
+  .wi-3 {
+    width: 13%;
   }
 }
 
-@media (max-width: 1024px) {
-  .header {
-    background-color: yellow;
+@media (min-width: 1280px) {
+  .wi-1 {
+    width: 10%;
+  }
+  .wi-2 {
+    width: 77%;
+  }
+  .wi-2_1 {
+    width: 206px;
+  }
+  .wi-3 {
+    width: 13%;
   }
 }
 
-@media (max-width: 1280px) {
-  .header {
-    background-color: red;
+@media (min-width: 1595px) {
+  .wi-1 {
+    width: 10%;
+  }
+  .wi-2 {
+    width: 78%;
+  }
+  .wi-2_1 {
+    width: 206px;
+  }
+  .wi-3 {
+    width: 10%;
   }
 }
 
-@media (max-width: 1536px) {
-  .header {
-    background-color: blue;
+@media (min-width: 1920px) {
+  .wi-1 {
+    width: 10%;
+  }
+  .wi-2 {
+    width: 79%;
+  }
+  .wi-2_1 {
+    width: 206px;
+  }
+  .wi-3 {
+    width: 11%;
   }
 }
 
 .mat_icon {
   height: 14px;
   margin: 0 4px;
+}
+
+.show-now:hover {
+  cursor: pointer;
+  font-weight: 500;
 }
